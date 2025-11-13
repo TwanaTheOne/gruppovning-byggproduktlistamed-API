@@ -51,3 +51,5 @@ function handleProductClick(product) {
 // Starta applikationen
 init();
 
+// Exponera init för tester
+
